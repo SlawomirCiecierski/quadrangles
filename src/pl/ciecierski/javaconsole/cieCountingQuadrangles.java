@@ -1,4 +1,5 @@
 package pl.ciecierski.javaconsole;
+//Calculates the square area.
 
 public class cieCountingQuadrangles {
 
