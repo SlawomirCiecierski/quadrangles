@@ -1,3 +1,3 @@
 # quadrangles
-Calculations of quadrangles fields.
-firstly: square
+Calculations of quadrangles fields:
+square, rectangle, diamond & trapeze
