@@ -3,7 +3,8 @@ package pl.ciecierski.javaconsole;
 public class cieCalculateDiamonds extends cieCalculateSquare
 {
     float height;
-    public cieCalculateDiamonds
+
+    public cieCalculateDiamonds()
     {
         sideA = 0;
         height = 0;
